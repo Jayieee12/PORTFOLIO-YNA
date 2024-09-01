@@ -20,7 +20,7 @@
                     </div>
                     <div class="box">
                         <h3><span>Freelance</span> : available</h3>
-                        <h3><span>Experince</span>: 4 years</h3>
+                        <h3><span>Experince</span>: 4 year</h3>
                         <h3><span>skill</span>: Digital ARtist</h3>
                         <h3><span>language</span>: English, Tagalog</h3>
                     </div>
